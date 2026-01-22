@@ -13,6 +13,10 @@
 - Java  
 - HTML, CSS, JavaScript  
 - Git & GitHub  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github" />
+</p>
+
 
 ---
 
@@ -23,11 +27,18 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyasatvik2005&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasatvik2005&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyasatvik2005&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasatvik2005&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 
 ## 🔗 Connect with Me
 - Email: kamisettysatyasatvik2005@gmail.com
 - Contact No: +91 7795682507
+- LinkedIn - 
