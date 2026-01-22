@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Satya Satvik 👋
 
-<!--
-**Satyasatvik2005/Satyasatvik2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech CSE Student  
+💻 Interested in Python, Java & Web Development  
+🚀 Learning by building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python  
+- Java  
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+
+---
+
+## 📌 Featured Projects
+- **Automatic Attendance Recording System (AARS)** – AI-based facial recognition system that automatically identifies students and records classroom attendance.
+- **Personal Web Development Projects** – Collection of responsive and user-friendly websites built using HTML, CSS, JavaScript, and Python for basic backend logic.
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyasatvik2005&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasatvik2005&layout=compact)
+
+---
+
+## 🔗 Connect with Me
+- Email: kamisettysatyasatvik2005@gmail.com
