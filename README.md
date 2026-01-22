@@ -23,6 +23,9 @@
 ## 📌 Featured Projects
 - **Automatic Attendance Recording System (AARS)** – AI-based facial recognition system that automatically identifies students and records classroom attendance.
 - **Personal Web Development Projects** – Collection of responsive and user-friendly websites built using HTML, CSS, JavaScript, and Python for basic backend logic.
+- **[Science & Space Website](https://github.com/Satyasatvik2005/science-space-website)**  
+ 
+
 
 ---
 
