@@ -1,4 +1,4 @@
-# Hi, I'm Satya Satvik 👋
+# Hi, I'm Kamisetty Satya Satvik 👋
 
 🎓 3rd Year B.Tech CSE Student  
 💻 Interested in Python, Java & Web Development  
