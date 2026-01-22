@@ -1,8 +1,10 @@
-# Hi, I'm Kamisetty Satya Satvik 👋
+<h1 align="center">Hi, I'm Satya Satvik 👋</h1>
+<h3 align="center">3rd Year B.Tech CSE Student | Python • Java • Web Development</h3>
 
-🎓 3rd Year B.Tech CSE Student  
-💻 Interested in Python, Java & Web Development  
-🚀 Learning by building real-world projects  
+<p align="center">
+  Learning by building real-world projects 🚀
+</p>
+  
 
 ---
 
