@@ -155,14 +155,6 @@ class SatyaSatvik:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyasatvik2005&theme=tokyonight&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
