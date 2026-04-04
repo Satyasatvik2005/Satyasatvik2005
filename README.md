@@ -145,19 +145,6 @@ class SatyaSatvik:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyasatvik2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasatvik2005&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyasatvik2005&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
