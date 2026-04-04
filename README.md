@@ -29,7 +29,7 @@
 
 - **Smart Monthly Expense Tracker**  
   A web-based expense management system built using Flask, SQLite, and Chart.js with features like budget tracking, category-wise analytics, smart insights, and interactive dashboards.  
-  🔗 [View Project](https://github.com/yourusername/smart-expense-tracker)
+  🔗 [View Project](https://smart-expense-tracker-tbxy.onrender.com)
 
 - **AI Campus Problem Radar**  
   Intelligent system for reporting and tracking campus issues using AI-based classification and priority management with an admin dashboard.
