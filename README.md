@@ -25,7 +25,7 @@
 ```python
 class SatyaSatvik:
     name     = "Kamisetty Satya Satvik"
-    role     = "3rd Year B.Tech CSE"
+    role     = "4th Year B.Tech CSE"
     location = "Bangalore, India 🇮🇳"
     phone    = "+91 7795682507"
 
