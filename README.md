@@ -1,309 +1,234 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001a00,70:003300,100:00ff41&height=280&section=header&text=Kamisetty%20Satya%20Satvik&fontSize=46&fontColor=00ff41&fontAlignY=35&desc=%3E%20Real-Time%20Systems%20%7C%20AI%20%2F%20ML%20%7C%20Full-Stack%20Engineer_&descColor=00ff41&descSize=15&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=220&section=header&text=Kamisetty%20Satya%20Satvik&fontSize=42&fontColor=00ff41&fontAlignY=35&desc=AI%20%2F%20Web%20%2F%20Python%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=800&lines=root%40satvik%3A~%24+whoami;%3E+Real-Time+WebSocket+Systems+Builder;%3E+AI+%2F+ML+Engineer+in+the+Making;%3E+Python+%7C+Java+%7C+React+%7C+Node.js+%7C+Express;%3E+Open+to+Internships+%E2%80%94+Let%27s+Build+Together!;%3E+B.Tech+CSE+2026+%7C+Bangalore+%F0%9F%87%AE%F0%9F%87%B3_)](https://github.com/Satyasatvik2005)
+```bash
+satvik@bengaluru:~$ whoami
+> B.Tech CSE student | 3rd Year | Building AI, Web & Big Data systems
+> Status: Open to internships & collaborations
+```
 
-<br/>
-
-<a href="https://www.linkedin.com/in/satya-satvik-kamisetty-19aa792a9"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
-<a href="mailto:kamisettysatyasatvik2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
-<a href="https://github.com/Satyasatvik2005"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Satyasatvik2005&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&base=1000" />
-<img src="https://img.shields.io/github/followers/Satyasatvik2005?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-00ff41?style=for-the-badge&labelColor=000000" />
+<a href="mailto:kamisettysatyasatvik2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=000000" />
+</a>
+<a href="https://linkedin.com/in/satya-satvik-kamisetty">
+  <img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000" />
+</a>
+<a href="https://github.com/Satyasatvik2005">
+  <img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=000000" />
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:000000&height=2&width=100%" width="100%"/>
+<br/>
 
-## ⚡ root@satvik:~$ cat about.py
-
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Satyasatvik2005&show_icons=true&theme=matrix&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41" />
-
-```python
-class SatyaSatvik:
-    def __init__(self):
-        self.name     = "Kamisetty Satya Satvik"
-        self.role     = "4th Year B.Tech CSE"
-        self.location = "Bangalore, India 🇮🇳"
-
-        self.currently_building = "Real-Time Stock & Crypto Watchlist"
-        self.learning_next      = ["Deep Learning", "Cloud", "System Design"]
-        self.core_stack         = ["Python", "Java", "JS", "Flask", "Node.js"]
-        self.motto              = "Ship fast. Learn faster. Build better."
-
-    def say_hi(self):
-        return "Let's build something real-time 🚀"
-
->>> me = SatyaSatvik()
->>> me.say_hi()
-"Let's build something real-time 🚀"
+```bash
+satvik@bengaluru:~$ cat about.md
 ```
 
-- `[+]` **Real-Time WebSocket Systems** — `Binance WS` → `Express` → `Throttle` → `React UI`
-- `[+]` **AI Attendance System** with facial recognition (OpenCV + dlib + Flask)
-- `[+]` **Big Data Pipelines** on the Hadoop ecosystem — HDFS, MapReduce, Hive
-- `[+]` **ML Models** for phishing detection, spam filtering & trend analysis
-- `[+]` Currently deep-diving into **Deep Learning, Cloud & System Design**
-- `[+]` Fuelled entirely by coffee & curiosity
+- 🎓 Final-year **B.Tech CSE** student at **Jain University, Global Campus**
+- 🧠 Building **AI/ML systems**, **full-stack web apps**, and **big data pipelines**
+- 🛠️ Proficient in **Python · Java · JavaScript · Flask · Node.js · Hadoop**
+- 🚀 Multiple **live-deployed projects** across cybersecurity, fintech & automation
+- 🌱 Rapid learner, proactive problem-solver, strong technical communicator
+- 📍 Based in **Bengaluru, Karnataka, India**
 
-<br clear="right"/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:000000&height=2&width=100%" width="100%"/>
-
-## 🛠️ root@satvik:~$ ls tech_stack/
+```bash
+satvik@bengaluru:~$ ls ./tech_stack/
+```
 
 <div align="center">
 
 **Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql&theme=dark" />
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41" />
 
-**Frameworks & Real-Time**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,socketio&theme=dark" />
+**Frameworks & Libraries**
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Chart.js-000000?style=for-the-badge&logo=chartdotjs&logoColor=00ff41" />
 
-**AI / ML & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=opencv,sklearn,pandas,hadoop&theme=dark" />
+**AI / ML / Big Data**
 
-<br/><br/>
+<img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=brain&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Hadoop-000000?style=for-the-badge&logo=apachehadoop&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Apache_Hive-000000?style=for-the-badge&logo=apachehive&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/MapReduce-000000?style=for-the-badge&logo=apache&logoColor=00ff41" />
 
 **Databases & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman,jupyter,linux&theme=dark" />
+
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00ff41" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:000000&height=2&width=100%" width="100%"/>
+<br/>
 
-## 🚀 root@satvik:~$ ls projects/ --featured
+```bash
+satvik@bengaluru:~$ ls ./projects/ --sort=date
+```
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📡 Real-Time Stock & Crypto Watchlist
+### 🛡️ AI Email Spam & Phishing Detector
+ML web app classifying emails as phishing / spam / legitimate using TF-IDF + Naive Bayes, with probability scoring, risk levels, URL analysis, and a glassmorphism real-time dashboard.
 
-> **Live data flow:**
-> `Binance WS` → `Express Server` → `Throttle` → `React UI`
+`Python` `Flask` `scikit-learn` `TF-IDF` `Naive Bayes` `NLP` `SQLite`
 
-Live market tracker powered by the Binance WebSocket API. Users build custom symbol watchlists with live candlestick charts, while the server re-broadcasts real-time price ticks to every connected client with throttling to prevent overload.
-
-**Internship-grade skills demonstrated:**
-- Connecting to external WebSocket feeds
-- Re-broadcasting price ticks to multiple clients
-- Server-side update throttling & rate limiting
-
-`Node.js` `Express` `WebSocket` `React` `Chart.js`
+🟢 **Live on Render**
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Automatic Attendance System
+### 💰 Smart Monthly Expense Tracker
+Full-stack finance app with CRUD expense management, smart overspend alerts, category-wise Chart.js visualizations, and year-over-year financial insights.
 
-AI-powered facial recognition that identifies students and logs classroom attendance in real time — zero manual input required.
+`Python` `Flask` `SQLite` `Chart.js` `HTML` `CSS` `JavaScript`
 
-**Key features:**
-- Real-time face detection & recognition
-- Automated attendance logging to database
-- Admin dashboard with analytics
-
-`Python` `Flask` `OpenCV` `dlib` `SQLite`
-
-[**→ View Repository**](https://github.com/Satyasatvik2005/automatic-attendance-system)
+🟢 **Live on Render**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📧 Phishing Email Detector
+### 🌦️ WeatherNow — Full-Stack Weather App
+Real-time weather for all 195 countries with 5-day forecasts, geolocation, server-side caching, and production-grade security hardening (Helmet + CORS).
 
-ML-based web app that detects spam and phishing emails with probability scores, URL risk analysis, pattern detection, and a full scan-history dashboard.
+`Node.js` `Express.js` `OpenWeatherMap API` `Node-Cache` `Helmet`
 
-**Key features:**
-- TF-IDF feature extraction + ML classification
-- Probability score with confidence levels
-- URL & header risk analysis
-
-`Python` `Flask` `scikit-learn` `TF-IDF` `SQLite`
-
-[**→ View Repository**](https://github.com/Satyasatvik2005/phishing-email-detector)
+✨ Glassmorphism UI with AOS animations
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 Smart Expense Tracker
+### 🏫 AI Campus Radar
+Web platform for students to report campus issues (hostel, water, ragging, cleanliness) with a centralized admin dashboard for real-time tracking and resolution.
 
-Full-stack budget management web app with category analytics, smart spending insights, budget vs. actual comparisons, and interactive Chart.js dashboards.
+`HTML` `JavaScript` `Python` `Data Analysis`
 
-**Key features:**
-- Monthly budget tracking by category
-- Visual spending analytics & charts
-- Smart alerts and insights engine
-
-`Flask` `Chart.js` `SQLite` `HTML5`
-
-[**→ View Repository**](https://github.com/Satyasatvik2005/Smart-Expense-Tracker)
+📊 Reduced avg. admin response time via recurring-issue analysis
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🐘 Big Data Analytics Pipeline
+### 🎵 Spotify Tracks Popularity Prediction
+EDA on a large Spotify dataset to uncover music trends; trained and evaluated ML regression models predicting track popularity from audio features.
 
-End-to-end large-scale data processing system built on the Hadoop ecosystem — HDFS for distributed storage, MapReduce for parallel processing, and Hive for SQL-style queries on massive datasets.
-
-`Hadoop` `Hive` `MapReduce` `Python`
+`Python` `Jupyter Notebook` `Pandas` `scikit-learn` `Data Viz`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎵 Spotify Tracks Analysis
+### 🐘 Big Data Pipeline with Hadoop & Hive
+Distributed data processing pipeline using Hadoop/HDFS; built Hive tables and executed HiveQL queries for large-scale aggregation and analytical reporting.
 
-Data science project uncovering music trends, popularity drivers, and listening patterns using ML models and rich interactive visualizations on the full Spotify dataset.
-
-`Python` `Pandas` `scikit-learn` `Jupyter`
-
-[**→ View Repository**](https://github.com/Satyasatvik2005/Spotify-Tracks-Dataset)
+`Hadoop` `HDFS` `Apache Hive` `HiveQL` `MapReduce`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌦️ Weather App
+### 🚗 Car Dodge Game
+Browser-based arcade game with smooth gameplay, infinite scrolling, accurate collision detection, score tracking, and LocalStorage high-score persistence.
 
-Full-stack weather application featuring cascading country → state → city dropdowns with real-time data pulled from a live weather REST API.
-
-`JavaScript` `HTML5` `CSS3` `REST API`
-
-[**→ View Repository**](https://github.com/Satyasatvik2005/Weather-App)
+`HTML5` `CSS3` `JavaScript (ES6)` `Canvas API` `LocalStorage`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏫 AI Campus Problem Radar
+<br/>
 
-Intelligent campus issue reporting and tracking system using AI-based classification, priority management, status tracking, and an admin dashboard for rapid resolution.
-
-`Python` `Flask` `scikit-learn` `SQLite`
+```
+> more projects loading...
+> check pinned repos below ↓
+```
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:000000&height=2&width=100%" width="100%"/>
-
-## 📊 root@satvik:~$ ./github_stats.sh
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Satyasatvik2005&show_icons=true&theme=matrix&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00cc33"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasatvik2005&layout=compact&langs_count=8&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Satyasatvik2005&theme=highcontrast&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&dates=00cc33&currStreakNum=00ff41&sideNums=00ff41" />
-
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyasatvik2005&theme=react-dark&hide_border=true&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:000000&height=2&width=100%" width="100%"/>
-
-## 🏆 root@satvik:~$ ls -la trophies/
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Satyasatvik2005&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:000000&height=2&width=100%" width="100%"/>
-
-## 🐍 root@satvik:~$ ./run snake.exe
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Satyasatvik2005/Satyasatvik2005/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<details>
-<summary>⚙️ Enable Snake Animation — click to expand</summary>
-
-<br/>
-
-Create <code>.github/workflows/snake.yml</code> in your profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Satyasatvik2005
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```bash
+satvik@bengaluru:~$ cat experience.log
 ```
 
-</details>
+**Web Developer** · *Unified Mentor (Internship)* — Jun 2025 – Jul 2025
+> Built responsive web apps; improved application performance by **20%** through debugging & optimization.
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:000000&height=2&width=100%" width="100%"/>
-
-## 🤝 root@satvik:~$ cat contact.txt
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [satya-satvik-kamisetty-19aa792a9](https://www.linkedin.com/in/satya-satvik-kamisetty-19aa792a9) |
-| 📧 Gmail | [kamisettysatyasatvik2005@gmail.com](mailto:kamisettysatyasatvik2005@gmail.com) |
-| 🐙 GitHub | [github.com/Satyasatvik2005](https://github.com/Satyasatvik2005) |
-| 📞 Phone | +91 7795682507 |
-| 📍 Location | Bangalore, India |
+**Software Developer** · *Accenture (Part-time)* — Jul 2022 – Feb 2023
+> Delivered multiple live projects on schedule; received appreciation certifications for performance optimization contributions.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/satya-satvik-kamisetty-19aa792a9"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
-<a href="mailto:kamisettysatyasatvik2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
-<a href="https://github.com/Satyasatvik2005"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41" /></a>
+```bash
+satvik@bengaluru:~$ ./run_stats.sh
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Satyasatvik2005&show_icons=true&theme=react&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyasatvik2005&theme=react&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=c9d1d9&border=00ff41" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasatvik2005&layout=compact&theme=react&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false" width="49%" />
+
+<img src="https://komarev.com/ghpvc/?username=Satyasatvik2005&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
+
+</div>
+
+<br/>
+
+```bash
+satvik@bengaluru:~$ cat education.md
+```
+
+| Institution | Degree / Grade | Years |
+|---|---|---|
+| Jain University, Global Campus — Kanakapura | B.Tech CSE (Core), 3rd Year — Ongoing | 2023 – 2027 |
+| Sri Chaitanya PU College, Marathahalli | Class XII (CBSE) — Grade B+ | 2022 – 2023 |
+| Sri Chaitanya PU College, Marathahalli | Class XI (CBSE) — Grade B | 2021 – 2022 |
+| Vydehi School of Excellence (VSE) | Class X (CBSE) — Grade A+ | 2020 – 2021 |
+
+**Certifications:** Coursera (Cloud Computing, DBMS, Data Communication Networks, OS, Data Structures) · Udemy (Java, Python)
+
+<br/>
+
+<div align="center">
+
+```bash
+satvik@bengaluru:~$ echo "Let's build something."
+```
+
+<a href="mailto:kamisettysatyasatvik2005@gmail.com">
+  <img src="https://img.shields.io/badge/Get_In_Touch-000000?style=for-the-badge&logo=protonmail&logoColor=00ff41" />
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=160&section=footer&text=Let%27s+Build+Something+Amazing+Together&fontSize=20&fontColor=00ff41&fontAlignY=65&animation=twinkling" width="100%"/>
-
-**⭐ Star my repos if you find them useful! ⭐**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
