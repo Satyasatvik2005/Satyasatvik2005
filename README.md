@@ -1,35 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,40:0d1b3e,70:1a0b3d,100:0a0e27&height=240&section=header&text=Kamisetty%20Satya%20Satvik&fontSize=46&fontColor=00f0ff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Big%20Data%20Builder&descAlignY=58&descSize=17&descColor=ff2bd6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,40:1a0000,70:2d0000,100:0a0000&height=240&section=header&text=Kamisetty%20Satya%20Satvik&fontSize=46&fontColor=ff2200&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Big%20Data%20Builder&descAlignY=58&descSize=17&descColor=FFB300&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F0FF&background=0A0E2700&center=true&vCenter=true&multiline=false&width=680&lines=Final-Year+B.Tech+CSE+%40+Jain+University;Shipped+7%2B+Live+AI+%26+Full-Stack+Projects;Python+%7C+Flask+%7C+Node.js+%7C+Hadoop+%7C+ML;Open+to+Internships+%26+Full-Time+Roles;Let%27s+Build+Something+That+Matters+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF2200&background=0A000000&center=true&vCenter=true&multiline=false&width=700&lines=Final-Year+B.Tech+CSE+%40+Jain+University;Shipped+7%2B+Live+AI+%26+Full-Stack+Projects;Python+%7C+Flask+%7C+Node.js+%7C+Hadoop+%7C+ML;Open+to+Internships+%26+Full-Time+Roles;Let%27s+Build+Something+That+Matters+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="mailto:kamisettysatyasatvik2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-kamisettysatyasatvik2005-0A0E27?style=for-the-badge&logo=gmail&logoColor=00f0ff&labelColor=0A0E27&color=0A0E27" />
+  <img src="https://img.shields.io/badge/Email-kamisettysatyasatvik2005-0a0000?style=for-the-badge&logo=gmail&logoColor=ff2200&labelColor=0a0000&color=0a0000" />
 </a>&nbsp;
 <a href="https://linkedin.com/in/satya-satvik-kamisetty-19aa792a9">
-  <img src="https://img.shields.io/badge/LinkedIn-satya--satvik--kamisetty-0A0E27?style=for-the-badge&logo=linkedin&logoColor=ff2bd6&labelColor=0A0E27&color=0A0E27" />
+  <img src="https://img.shields.io/badge/LinkedIn-satya--satvik--kamisetty-0a0000?style=for-the-badge&logo=linkedin&logoColor=FFB300&labelColor=0a0000&color=0a0000" />
 </a>&nbsp;
 <a href="https://github.com/Satyasatvik2005">
-  <img src="https://img.shields.io/badge/GitHub-Satyasatvik2005-0A0E27?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0A0E27&color=0A0E27" />
+  <img src="https://img.shields.io/badge/GitHub-Satyasatvik2005-0a0000?style=for-the-badge&logo=github&logoColor=ff2200&labelColor=0a0000&color=0a0000" />
 </a>&nbsp;
-<img src="https://img.shields.io/badge/📍_Bengaluru-Karnataka,_India-0A0E27?style=for-the-badge&logoColor=ff2bd6&labelColor=0A0E27&color=0A0E27" />
+<img src="https://img.shields.io/badge/📍_Bengaluru-Karnataka,_India-0a0000?style=for-the-badge&logoColor=FFB300&labelColor=0a0000&color=0a0000" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Satyasatvik2005&label=PROFILE+VIEWS&color=ff2bd6&style=for-the-badge&labelColor=0A0E27" />
+<img src="https://komarev.com/ghpvc/?username=Satyasatvik2005&label=PROFILE+VIEWS&color=ff2200&style=for-the-badge&labelColor=0a0000" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=ff2200&height=3&section=header" width="100%"/>
 
 <br/>
 
-## ⚡ About Me
+## 🔥 About Me
 
 > *I don't just write code — I ship systems that solve real problems.*
 
@@ -44,55 +44,55 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=ff2bd6&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFB300&height=3&section=header" width="100%"/>
 
 <br/>
 
-## 🧬 Tech Stack
+## ⚔️ Tech Stack
 
 <div align="center">
 
 ### Languages
-<img src="https://img.shields.io/badge/Python-0A0E27?style=for-the-badge&logo=python&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/Java-0A0E27?style=for-the-badge&logo=openjdk&logoColor=ff2bd6" />
-<img src="https://img.shields.io/badge/JavaScript-0A0E27?style=for-the-badge&logo=javascript&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/HTML5-0A0E27?style=for-the-badge&logo=html5&logoColor=ff2bd6" />
-<img src="https://img.shields.io/badge/CSS3-0A0E27?style=for-the-badge&logo=css3&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/SQL-0A0E27?style=for-the-badge&logo=postgresql&logoColor=ff2bd6" />
+<img src="https://img.shields.io/badge/Python-0a0000?style=for-the-badge&logo=python&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/Java-0a0000?style=for-the-badge&logo=openjdk&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/JavaScript-0a0000?style=for-the-badge&logo=javascript&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/HTML5-0a0000?style=for-the-badge&logo=html5&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/CSS3-0a0000?style=for-the-badge&logo=css3&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/SQL-0a0000?style=for-the-badge&logo=postgresql&logoColor=FFB300" />
 
 ### Frameworks & Libraries
-<img src="https://img.shields.io/badge/Flask-0A0E27?style=for-the-badge&logo=flask&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/Node.js-0A0E27?style=for-the-badge&logo=nodedotjs&logoColor=ff2bd6" />
-<img src="https://img.shields.io/badge/Express.js-0A0E27?style=for-the-badge&logo=express&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/OpenCV-0A0E27?style=for-the-badge&logo=opencv&logoColor=ff2bd6" />
-<img src="https://img.shields.io/badge/scikit--learn-0A0E27?style=for-the-badge&logo=scikitlearn&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/Pandas-0A0E27?style=for-the-badge&logo=pandas&logoColor=ff2bd6" />
-<img src="https://img.shields.io/badge/Chart.js-0A0E27?style=for-the-badge&logo=chartdotjs&logoColor=00f0ff" />
+<img src="https://img.shields.io/badge/Flask-0a0000?style=for-the-badge&logo=flask&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/Node.js-0a0000?style=for-the-badge&logo=nodedotjs&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/Express.js-0a0000?style=for-the-badge&logo=express&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/OpenCV-0a0000?style=for-the-badge&logo=opencv&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/scikit--learn-0a0000?style=for-the-badge&logo=scikitlearn&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/Pandas-0a0000?style=for-the-badge&logo=pandas&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/Chart.js-0a0000?style=for-the-badge&logo=chartdotjs&logoColor=ff2200" />
 
 ### AI · ML · Big Data
-<img src="https://img.shields.io/badge/NLP-0A0E27?style=for-the-badge&logo=openai&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/TF--IDF-0A0E27?style=for-the-badge&logo=apache&logoColor=ff2bd6" />
-<img src="https://img.shields.io/badge/Naive_Bayes-0A0E27?style=for-the-badge&logo=apachespark&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/Hadoop-0A0E27?style=for-the-badge&logo=apachehadoop&logoColor=ff2bd6" />
-<img src="https://img.shields.io/badge/Apache_Hive-0A0E27?style=for-the-badge&logo=apachehive&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/HDFS-0A0E27?style=for-the-badge&logo=apache&logoColor=ff2bd6" />
-<img src="https://img.shields.io/badge/MapReduce-0A0E27?style=for-the-badge&logo=apache&logoColor=00f0ff" />
+<img src="https://img.shields.io/badge/NLP-0a0000?style=for-the-badge&logo=openai&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/TF--IDF-0a0000?style=for-the-badge&logo=apache&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/Naive_Bayes-0a0000?style=for-the-badge&logo=apachespark&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/Hadoop-0a0000?style=for-the-badge&logo=apachehadoop&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/Apache_Hive-0a0000?style=for-the-badge&logo=apachehive&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/HDFS-0a0000?style=for-the-badge&logo=apache&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/MapReduce-0a0000?style=for-the-badge&logo=apache&logoColor=ff2200" />
 
 ### Databases · DevOps · Tools
-<img src="https://img.shields.io/badge/SQLite-0A0E27?style=for-the-badge&logo=sqlite&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/MySQL-0A0E27?style=for-the-badge&logo=mysql&logoColor=ff2bd6" />
-<img src="https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=ff2bd6" />
-<img src="https://img.shields.io/badge/VS_Code-0A0E27?style=for-the-badge&logo=visualstudiocode&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/Jupyter-0A0E27?style=for-the-badge&logo=jupyter&logoColor=ff2bd6" />
-<img src="https://img.shields.io/badge/Render-0A0E27?style=for-the-badge&logo=render&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/Vercel-0A0E27?style=for-the-badge&logo=vercel&logoColor=ff2bd6" />
+<img src="https://img.shields.io/badge/SQLite-0a0000?style=for-the-badge&logo=sqlite&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/MySQL-0a0000?style=for-the-badge&logo=mysql&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/Git-0a0000?style=for-the-badge&logo=git&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/GitHub-0a0000?style=for-the-badge&logo=github&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/VS_Code-0a0000?style=for-the-badge&logo=visualstudiocode&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/Jupyter-0a0000?style=for-the-badge&logo=jupyter&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/Render-0a0000?style=for-the-badge&logo=render&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/Vercel-0a0000?style=for-the-badge&logo=vercel&logoColor=FFB300" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00f0ff&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=ff2200&height=3&section=header" width="100%"/>
 
 <br/>
 
@@ -132,7 +132,7 @@ Delivered multiple live client projects on schedule; **received appreciation cer
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=ff2bd6&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFB300&height=3&section=header" width="100%"/>
 
 <br/>
 
@@ -147,7 +147,7 @@ A production-grade ML security tool that classifies emails as phishing, spam, or
 
 `Python` `Flask` `scikit-learn` `TF-IDF` `Naive Bayes` `NLP` `SQLite`
 
-[![Live](https://img.shields.io/badge/🟢_LIVE_ON_RENDER-0A0E27?style=flat-square&logoColor=00f0ff)](https://phishing-email-detector-76v8.onrender.com)
+[![Live](https://img.shields.io/badge/🔴_LIVE_ON_RENDER-0a0000?style=flat-square&logoColor=ff2200)](https://phishing-email-detector-76v8.onrender.com)
 
 </td>
 <td width="50%" valign="top">
@@ -157,7 +157,7 @@ A full-stack personal finance platform with **CRUD expense management, smart ove
 
 `Python` `Flask` `SQLite` `Chart.js` `HTML` `CSS` `JavaScript`
 
-[![Live](https://img.shields.io/badge/🟢_LIVE_ON_RENDER-0A0E27?style=flat-square&logoColor=00f0ff)](https://smart-expense-tracker-tbxy.onrender.com)
+[![Live](https://img.shields.io/badge/🔴_LIVE_ON_RENDER-0a0000?style=flat-square&logoColor=ff2200)](https://smart-expense-tracker-tbxy.onrender.com)
 
 </td>
 </tr>
@@ -169,7 +169,7 @@ A production-hardened weather platform covering **all 195 countries** with real-
 
 `Node.js` `Express.js` `OpenWeatherMap API` `CountriesNow API` `Node-Cache` `Helmet`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0A0E27?style=flat-square&logo=github&logoColor=00f0ff)](https://github.com/Satyasatvik2005/Weather-App)
+[![Repo](https://img.shields.io/badge/View_Repo-0a0000?style=flat-square&logo=github&logoColor=FFB300)](https://github.com/Satyasatvik2005/Weather-App)
 
 </td>
 <td width="50%" valign="top">
@@ -179,7 +179,7 @@ A web-based issue intelligence platform enabling students to report campus probl
 
 `HTML` `JavaScript` `Python` `Data Analysis`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0A0E27?style=flat-square&logo=github&logoColor=ff2bd6)](https://github.com/Satyasatvik2005)
+[![Repo](https://img.shields.io/badge/View_Repo-0a0000?style=flat-square&logo=github&logoColor=ff2200)](https://github.com/Satyasatvik2005)
 
 </td>
 </tr>
@@ -191,7 +191,7 @@ An end-to-end ML analytics project performing **exploratory data analysis on a l
 
 `Python` `Jupyter Notebook` `Pandas` `scikit-learn` `Matplotlib` `Seaborn`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0A0E27?style=flat-square&logo=github&logoColor=00f0ff)](https://github.com/Satyasatvik2005/Spotify-Tracks-Dataset)
+[![Repo](https://img.shields.io/badge/View_Repo-0a0000?style=flat-square&logo=github&logoColor=FFB300)](https://github.com/Satyasatvik2005/Spotify-Tracks-Dataset)
 
 </td>
 <td width="50%" valign="top">
@@ -201,7 +201,7 @@ A distributed data engineering pipeline built on the **full Hadoop ecosystem for
 
 `Hadoop` `HDFS` `Apache Hive` `HiveQL` `MapReduce`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0A0E27?style=flat-square&logo=github&logoColor=ff2bd6)](https://github.com/Satyasatvik2005)
+[![Repo](https://img.shields.io/badge/View_Repo-0a0000?style=flat-square&logo=github&logoColor=ff2200)](https://github.com/Satyasatvik2005)
 
 </td>
 </tr>
@@ -213,7 +213,7 @@ A polished browser-based arcade game featuring **smooth infinite scrolling, pixe
 
 `HTML5` `CSS3` `JavaScript ES6` `Canvas API` `LocalStorage`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0A0E27?style=flat-square&logo=github&logoColor=00f0ff)](https://github.com/Satyasatvik2005)
+[![Repo](https://img.shields.io/badge/View_Repo-0a0000?style=flat-square&logo=github&logoColor=FFB300)](https://github.com/Satyasatvik2005)
 
 </td>
 <td width="50%" valign="top">
@@ -223,7 +223,7 @@ The flagship internship project — a **production AI system using OpenCV + dlib
 
 `Python` `Flask` `OpenCV` `dlib` `Face Recognition` `SQLite` `UML`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0A0E27?style=flat-square&logo=github&logoColor=ff2bd6)](https://github.com/Satyasatvik2005/automatic-attendance-system)
+[![Repo](https://img.shields.io/badge/View_Repo-0a0000?style=flat-square&logo=github&logoColor=ff2200)](https://github.com/Satyasatvik2005/automatic-attendance-system)
 
 </td>
 </tr>
@@ -231,7 +231,7 @@ The flagship internship project — a **production AI system using OpenCV + dlib
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00f0ff&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=ff2200&height=3&section=header" width="100%"/>
 
 <br/>
 
@@ -239,19 +239,19 @@ The flagship internship project — a **production AI system using OpenCV + dlib
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Satyasatvik2005&show_icons=true&theme=tokyonight&bg_color=0A0E27&title_color=00f0ff&icon_color=ff2bd6&text_color=c9d1d9&border_color=ff2bd6&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyasatvik2005&theme=tokyonight&background=0A0E27&stroke=ff2bd6&ring=00f0ff&fire=ff2bd6&currStreakNum=00f0ff&currStreakLabel=00f0ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=6B7280&border=ff2bd6&border_radius=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Satyasatvik2005&show_icons=true&bg_color=0a0000&title_color=ff2200&icon_color=FFB300&text_color=e0c9c9&border_color=ff2200&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyasatvik2005&background=0a0000&stroke=ff2200&ring=FFB300&fire=ff2200&currStreakNum=FFB300&currStreakLabel=ff2200&sideNums=e0c9c9&sideLabels=e0c9c9&dates=7a5a5a&border=ff2200&border_radius=10" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasatvik2005&layout=compact&theme=tokyonight&bg_color=0A0E27&title_color=ff2bd6&text_color=c9d1d9&border_color=00f0ff&border_radius=10&hide_border=false&langs_count=8" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyasatvik2005&bg_color=0A0E27&color=00f0ff&line=ff2bd6&point=00f0ff&area=true&area_color=1a0b3d&hide_border=false&border_color=ff2bd6&radius=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasatvik2005&layout=compact&bg_color=0a0000&title_color=FFB300&text_color=e0c9c9&border_color=ff2200&border_radius=10&hide_border=false&langs_count=8" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyasatvik2005&bg_color=0a0000&color=FFB300&line=ff2200&point=FFB300&area=true&area_color=2d0000&hide_border=false&border_color=ff2200&radius=10" width="49%" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=ff2bd6&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFB300&height=3&section=header" width="100%"/>
 
 <br/>
 
@@ -282,41 +282,33 @@ Levelling up front-end skills to pair with existing Flask/Node.js backends — b
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00f0ff&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=ff2200&height=3&section=header" width="100%"/>
 
 <br/>
 
-## 🎓 Education & Certifications
+## 📜 Certifications
 
-| 🏛️ Institution | 📚 Qualification | 📅 Year | 🏆 Result |
-|---|---|---|---|
-| Jain University, Global Campus — Kanakapura | B.Tech CSE · Core Specialization | 2023 – 2027 | Final Year · Ongoing |
-| Sri Chaitanya PU College, Marathahalli | Class XII · CBSE | 2022 – 2023 | 64.6% |
-| Sri Chaitanya PU College, Marathahalli | Class XI · CBSE | 2021 – 2022 | 70% |
-| Vydehi School of Excellence (VSE) | Class X · CBSE | 2020 – 2021 | 72% |
+<div align="center">
 
-<br/>
+<img src="https://img.shields.io/badge/Coursera-Cloud_Computing-0a0000?style=for-the-badge&logo=coursera&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/Coursera-DBMS-0a0000?style=for-the-badge&logo=coursera&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/Coursera-Data_Comm_Networks-0a0000?style=for-the-badge&logo=coursera&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/Coursera-Operating_Systems-0a0000?style=for-the-badge&logo=coursera&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/Coursera-Data_Structures-0a0000?style=for-the-badge&logo=coursera&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/Udemy-Java-0a0000?style=for-the-badge&logo=udemy&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/Udemy-Python-0a0000?style=for-the-badge&logo=udemy&logoColor=ff2200" />
 
-**📜 Certifications**
-
-<img src="https://img.shields.io/badge/Coursera-Cloud_Computing-0A0E27?style=for-the-badge&logo=coursera&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/Coursera-DBMS-0A0E27?style=for-the-badge&logo=coursera&logoColor=ff2bd6" />
-<img src="https://img.shields.io/badge/Coursera-Data_Comm_Networks-0A0E27?style=for-the-badge&logo=coursera&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/Coursera-Operating_Systems-0A0E27?style=for-the-badge&logo=coursera&logoColor=ff2bd6" />
-<img src="https://img.shields.io/badge/Coursera-Data_Structures-0A0E27?style=for-the-badge&logo=coursera&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/Udemy-Java-0A0E27?style=for-the-badge&logo=udemy&logoColor=ff2bd6" />
-<img src="https://img.shields.io/badge/Udemy-Python-0A0E27?style=for-the-badge&logo=udemy&logoColor=00f0ff" />
+</div>
 
 <br/>
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=ff2bd6&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFB300&height=3&section=header" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-## 💬 Let's Build Something
+## 🩸 Let's Build Something
 
 *I'm actively looking for internships, full-time roles, and open-source collaborations.*
 *If you're building something ambitious — I want in.*
@@ -324,16 +316,16 @@ Levelling up front-end skills to pair with existing Flask/Node.js backends — b
 <br/>
 
 <a href="mailto:kamisettysatyasatvik2005@gmail.com">
-  <img src="https://img.shields.io/badge/Get_In_Touch-kamisettysatyasatvik2005@gmail.com-0A0E27?style=for-the-badge&logo=gmail&logoColor=00f0ff&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/Get_In_Touch-kamisettysatyasatvik2005@gmail.com-0a0000?style=for-the-badge&logo=gmail&logoColor=ff2200&labelColor=0a0000" />
 </a>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/satya-satvik-kamisetty-19aa792a9">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=ff2bd6&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0a0000?style=for-the-badge&logo=linkedin&logoColor=FFB300&labelColor=0a0000" />
 </a>&nbsp;
 <a href="https://github.com/Satyasatvik2005">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-0a0000?style=for-the-badge&logo=github&logoColor=ff2200&labelColor=0a0000" />
 </a>
 
 <br/><br/>
@@ -342,6 +334,6 @@ Levelling up front-end skills to pair with existing Flask/Node.js backends — b
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,40:1a0b3d,70:0d1b3e,100:0a0e27&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,40:2d0000,70:1a0000,100:0a0000&height=120&section=footer" width="100%"/>
 
 </div>
