@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF2200&background=0A000000&center=true&vCenter=true&multiline=false&width=700&lines=Final-Year+B.Tech+CSE+%40+Jain+University;Shipped+7%2B+Live+AI+%26+Full-Stack+Projects;Python+%7C+Flask+%7C+Node.js+%7C+Hadoop+%7C+ML;Open+to+Internships+%26+Full-Time+Roles;Let%27s+Build+Something+That+Matters+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF2200&background=0A000000&center=true&vCenter=true&multiline=false&width=700&lines=Final-Year+B.Tech+CSE+%40+Jain+University;Shipped+8%2B+Live+AI+%26+Full-Stack+Projects;Python+%7C+Flask+%7C+Node.js+%7C+Hadoop+%7C+ML;Open+to+Internships+%26+Full-Time+Roles;Let%27s+Build+Something+That+Matters+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -33,7 +33,7 @@
 
 > *I don't just write code — I ship systems that solve real problems.*
 
-- 🚀 **Shipped 7+ live-deployed AI & full-stack projects** as a final-year student — from cybersecurity tools to big data pipelines
+- 🚀 **Shipped 8+ live-deployed AI & full-stack projects** as a final-year student — from cybersecurity tools to big data pipelines to warehouse automation
 - 🧠 **Built production ML systems** — a phishing detector with NLP, a facial recognition attendance system that cut errors by **90%**, and a music popularity predictor trained on real Spotify data
 - 🌐 **Full-stack across the board** — comfortable from Flask/Python backends to Node.js/Express APIs to responsive front-ends with Chart.js and Canvas
 - 🐘 **Big Data practitioner** — architected real Hadoop/HDFS/Hive pipelines for large-scale distributed data processing
@@ -68,6 +68,7 @@
 <img src="https://img.shields.io/badge/scikit--learn-0a0000?style=for-the-badge&logo=scikitlearn&logoColor=ff2200" />
 <img src="https://img.shields.io/badge/Pandas-0a0000?style=for-the-badge&logo=pandas&logoColor=FFB300" />
 <img src="https://img.shields.io/badge/Chart.js-0a0000?style=for-the-badge&logo=chartdotjs&logoColor=ff2200" />
+<img src="https://img.shields.io/badge/Mongoose-0a0000?style=for-the-badge&logo=mongoose&logoColor=FFB300" />
 
 ### AI · ML · Big Data
 <img src="https://img.shields.io/badge/NLP-0a0000?style=for-the-badge&logo=openai&logoColor=ff2200" />
@@ -81,6 +82,7 @@
 ### Databases · DevOps · Tools
 <img src="https://img.shields.io/badge/SQLite-0a0000?style=for-the-badge&logo=sqlite&logoColor=ff2200" />
 <img src="https://img.shields.io/badge/MySQL-0a0000?style=for-the-badge&logo=mysql&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/MongoDB-0a0000?style=for-the-badge&logo=mongodb&logoColor=ff2200" />
 <img src="https://img.shields.io/badge/Git-0a0000?style=for-the-badge&logo=git&logoColor=ff2200" />
 <img src="https://img.shields.io/badge/GitHub-0a0000?style=for-the-badge&logo=github&logoColor=FFB300" />
 <img src="https://img.shields.io/badge/VS_Code-0a0000?style=for-the-badge&logo=visualstudiocode&logoColor=ff2200" />
@@ -224,6 +226,21 @@ The flagship internship project — a **production AI system using OpenCV + dlib
 `Python` `Flask` `OpenCV` `dlib` `Face Recognition` `SQLite` `UML`
 
 [![Repo](https://img.shields.io/badge/View_Repo-0a0000?style=flat-square&logo=github&logoColor=ff2200)](https://github.com/Satyasatvik2005/automatic-attendance-system)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Smart Warehouse Automation
+A full-stack warehouse management platform with **real-time inventory CRUD, low-stock reorder alerts, and category-wise stock distribution reporting** across a clean multi-page dashboard. Built on an Express + MongoDB/Mongoose backend with a graceful in-memory fallback layer, so inventory tracking, search/filtering, and alerting keep working even without a live database connection.
+
+`Node.js` `Express.js` `MongoDB` `Mongoose` `REST API` `HTML` `CSS` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0a0000?style=flat-square&logo=github&logoColor=FFB300)](https://github.com/Satyasatvik2005)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
